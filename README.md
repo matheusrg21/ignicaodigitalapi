@@ -1,24 +1,10 @@
-# README
+# Este projeto tem como é a implementação do back-end do Teste Prático proposto pela Ignição Digital
+## **Aqui temos uma API com padrão REST que deve realizar operações de CRUD de clientes.**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Stack de desenvolvimento:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby on Rails:
+    - Ruby versão: 2.6.0;
+    - Rais versão: 6.0.3;
+- Banco de dados PostgreSQL;
+- Heroku como serviço de hospedagem na nuvem;
